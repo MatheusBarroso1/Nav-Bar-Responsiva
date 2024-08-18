@@ -56,11 +56,11 @@ header {
 
 .contact-button button {
     border: none;
-    background-color: #add8e6;
+    background-color: #575757;
     padding: 10px 15px;
     border-radius: 5px;
     padding: 1rem 2rem;
-    margin-top: 10px;
+    margin-top: 8px;
 }
 
 .contact-button button a {
